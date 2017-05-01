@@ -1,0 +1,74 @@
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe.config
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe.config
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.pdb
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.xml
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ResolveAssemblyReference.cache
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.Form1.resources
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.Resources.resources
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\GenerateResource.read.1.tlog
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\GenerateResource.write.1.tlog
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.exe
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.xml
+H:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.pdb
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe.config
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.exe
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.xml
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.pdb
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.pdb
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.xml
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.Resources.resources
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_Login.resources
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.exe
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.xml
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.pdb
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.pdb
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.xml
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_Back.resources
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_Login.resources
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.Resources.resources
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_MenuPrincipal.resources
+D:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe.config
+D:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.exe
+D:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.xml
+D:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.pdb
+D:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ResolveAssemblyReference.cache
+D:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_Back.resources
+D:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_Login.resources
+D:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_MenuPrincipal.resources
+D:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.Resources.resources
+D:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.vbproj.GenerateResource.Cache
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_MenuPrincipal.resources
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_Clientes.resources
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_BackMenuPrincipal.resources
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\ResolveAssemblyReference.cache
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\GenerateResource.read.1.tlog
+E:\Samuel\VisualBasic Programs\PROYECTO FINAL\ProyectoCxC\ProyectoCxC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe.config
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.exe
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.xml
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.pdb
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.pdb
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.xml
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_Clientes.resources
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_CxC.resources
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_Facturas.resources
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_Login.resources
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_BackMenuPrincipal.resources
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_MenuPrincipal.resources
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.f_Inventario.resources
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.Resources.resources
+C:\Users\Samuel\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.vbproj.GenerateResource.Cache
+C:\Users\FINJUS_LAPTOP2013_1\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe.config
+C:\Users\FINJUS_LAPTOP2013_1\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.exe
+C:\Users\FINJUS_LAPTOP2013_1\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.xml
+C:\Users\FINJUS_LAPTOP2013_1\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.pdb
+C:\Users\Samuel Perez\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\bin\Debug\ProyectoCxC.exe.config
+C:\Users\Samuel Perez\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.exe
+C:\Users\Samuel Perez\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.xml
+C:\Users\Samuel Perez\Desktop\Proyectos\ProyectoCxC\ProyectoCxC\obj\Debug\ProyectoCxC.pdb
